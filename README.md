@@ -13,7 +13,7 @@
 # Control Microcontroller(Control_MCU):
  Type : ATmega16 MCU   
  It's connected to a Direct Current(DC) motor, M2416 Electrically Erasable Programmable Read-Only Memory(EEPROM) and a Buzzer.The DC motor is used to open/close the door,M2416 
- EEPROM is an external non-volatile memory used to store the user password and the buzzer is used as an alarm if the user is wrongle enterd the password 3 times.
+ EEPROM is an external non-volatile memory used to store the user password and the buzzer is used as an alarm if the user is wrongly enterd the password 3 times.
  
 # How it works?
  1- In the very begining the user is asked to enter a new password for the system through the LCD.
